@@ -1,4 +1,4 @@
 # my-repo
 This is my github repo
 
-## Manual edit. This file was modified locally. 
+This line was modified manually during conflict resoltuion of git pull command.
